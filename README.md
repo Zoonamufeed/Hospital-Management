@@ -1,2 +1,2 @@
 # Hospital-Management
-My assigmnet Hospital Management Website
+My assignment Hospital Management Website
